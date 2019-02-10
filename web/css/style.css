@@ -24,10 +24,10 @@ canvas{ display: block; vertical-align: bottom; background: }
   #spaceship{
     position: absolute;
     z-index: 1000;
-    height: 20%;
-    width: auto;
+    height: auto;
+    width: 5vw;
     bottom: 20vh;
-    right: 48vw;
+    right: 47.5vw;
   }
 
   h1 {
